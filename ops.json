@@ -6,6 +6,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "ad78dbc8-6e26-4d71-ab21-e87f43fb7a2a",
+    "name": "Solenoid01",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "a544c50b-22a0-4e8e-b2c0-53addd629428",
     "name": "whaivik",
     "level": 4,

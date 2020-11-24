@@ -749,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-11-24 22:04:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-11-22 00:29:05 +0000"
@@ -818,6 +824,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-11-21 23:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-11-24 22:04:51 +0000"
     },
     "done": true
   },
@@ -1476,10 +1488,12 @@
     "criteria": {
       "chicken": "2020-11-23 18:59:55 +0000",
       "sweet_berries": "2020-11-21 23:30:36 +0000",
+      "baked_potato": "2020-11-24 22:11:49 +0000",
       "bread": "2020-11-22 00:47:26 +0000",
       "melon_slice": "2020-11-22 00:49:59 +0000",
       "mushroom_stew": "2020-11-21 23:27:32 +0000",
-      "cooked_salmon": "2020-11-21 23:40:43 +0000"
+      "cooked_salmon": "2020-11-21 23:40:43 +0000",
+      "carrot": "2020-11-24 21:42:59 +0000"
     },
     "done": false
   },

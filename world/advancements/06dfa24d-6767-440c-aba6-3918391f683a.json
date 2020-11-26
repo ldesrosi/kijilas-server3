@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-11-25 23:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2020-10-14 21:15:06 +0000"
@@ -578,6 +584,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2020-11-22 21:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-11-25 23:54:42 +0000"
     },
     "done": true
   },
@@ -948,6 +960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-11-25 23:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2020-11-14 23:46:41 +0000"
@@ -1017,6 +1035,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2020-10-14 21:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-11-26 00:00:01 +0000"
     },
     "done": true
   },
@@ -1849,6 +1873,7 @@
       "cooked_beef": "2020-09-11 20:38:15 +0000",
       "chorus_fruit": "2020-10-14 21:08:32 +0000",
       "beef": "2020-11-05 22:13:42 +0000",
+      "baked_potato": "2020-11-25 23:08:07 +0000",
       "apple": "2020-11-05 21:50:28 +0000",
       "cooked_cod": "2020-11-23 21:45:38 +0000",
       "bread": "2020-09-11 21:49:42 +0000",
@@ -2069,7 +2094,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:chicken": "2020-11-23 22:53:28 +0000"
+      "minecraft:chicken": "2020-11-23 22:53:28 +0000",
+      "minecraft:rabbit": "2020-11-25 23:12:50 +0000"
     },
     "done": false
   },
@@ -2862,6 +2888,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-09-11 22:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-11-25 23:54:42 +0000"
     },
     "done": true
   },

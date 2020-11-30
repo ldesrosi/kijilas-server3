@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-11-23 18:11:52 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-11-23 17:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
     },
     "done": true
   },
@@ -317,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-11-23 17:53:20 +0000"
@@ -335,7 +353,9 @@
       "sweet_berries": "2020-11-23 17:52:31 +0000",
       "baked_potato": "2020-11-25 23:54:54 +0000",
       "apple": "2020-11-23 18:28:16 +0000",
+      "rotten_flesh": "2020-11-30 22:14:57 +0000",
       "melon_slice": "2020-11-23 18:36:50 +0000",
+      "mushroom_stew": "2020-11-30 22:03:47 +0000",
       "cooked_salmon": "2020-11-23 19:16:56 +0000"
     },
     "done": false
@@ -460,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-23 18:42:01 +0000"
@@ -560,6 +586,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-11-23 18:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
     },
     "done": true
   },
@@ -668,6 +700,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-11-23 17:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
     },
     "done": true
   },
@@ -899,6 +937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-11-30 22:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2020-11-23 17:53:19 +0000"
@@ -965,6 +1009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2020-11-23 17:54:49 +0000"
@@ -998,6 +1048,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-23 18:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
     },
     "done": true
   },
@@ -1121,6 +1177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2020-11-23 17:47:53 +0000"
@@ -1175,6 +1237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-11-23 17:53:20 +0000"
@@ -1184,6 +1252,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-11-23 18:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
     },
     "done": true
   },
@@ -1373,6 +1447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2020-11-23 17:51:03 +0000"
@@ -1440,6 +1520,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-11-25 23:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-11-30 22:08:24 +0000"
     },
     "done": true
   },
@@ -1581,6 +1667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-11-30 22:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2020-11-23 18:29:42 +0000"
@@ -1590,6 +1682,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-11-23 18:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-30 22:20:12 +0000"
     },
     "done": true
   },

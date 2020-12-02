@@ -822,6 +822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-12-02 21:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2020-11-05 21:43:42 +0000"
@@ -1143,6 +1149,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-09-11 22:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-12-02 21:31:24 +0000"
     },
     "done": true
   },
@@ -1483,6 +1495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-12-02 21:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-10-14 21:32:12 +0000"
@@ -1694,6 +1712,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-09-11 20:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-12-02 21:29:27 +0000"
     },
     "done": true
   },
@@ -2441,6 +2465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-12-02 21:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-14 22:40:07 +0000"
@@ -2480,6 +2510,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-09-11 20:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-12-02 21:29:15 +0000"
     },
     "done": true
   },
@@ -2873,6 +2909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-12-02 21:28:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-09-11 23:29:17 +0000"
@@ -3032,6 +3074,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-14 23:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-12-02 21:29:15 +0000"
     },
     "done": true
   },

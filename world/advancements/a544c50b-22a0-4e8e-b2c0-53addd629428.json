@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-12-02 21:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-09-25 22:40:55 +0000"
@@ -493,6 +499,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-12-02 20:17:18 +0000",
       "minecraft:skeleton": "2020-09-25 22:17:43 +0000",
       "minecraft:hoglin": "2020-11-26 00:06:31 +0000",
       "minecraft:spider": "2020-11-14 22:08:44 +0000",
@@ -960,6 +967,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-11-14 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-12-02 21:51:08 +0000"
     },
     "done": true
   },
@@ -1812,6 +1825,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-12-02 21:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-11-14 22:07:39 +0000"
@@ -1839,6 +1858,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-11-23 23:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-12-02 21:51:08 +0000"
     },
     "done": true
   },
@@ -2121,6 +2146,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-11-22 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-12-02 21:51:08 +0000"
     },
     "done": true
   },

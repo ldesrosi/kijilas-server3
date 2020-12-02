@@ -1979,6 +1979,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-12-02 22:14:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-11-23 17:08:32 +0000"

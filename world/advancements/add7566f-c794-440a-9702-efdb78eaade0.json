@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-12-03 22:07:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-09-11 20:36:46 +0000"
@@ -662,6 +668,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-09-11 20:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-12-03 22:07:37 +0000"
     },
     "done": true
   },
@@ -1534,6 +1546,7 @@
       "minecraft:beach": "2020-09-11 21:16:19 +0000",
       "minecraft:dark_forest": "2020-09-11 21:54:30 +0000",
       "minecraft:river": "2020-09-11 20:29:49 +0000",
+      "minecraft:lukewarm_ocean": "2020-12-03 22:07:32 +0000",
       "minecraft:wooded_mountains": "2020-09-11 20:52:19 +0000",
       "minecraft:bamboo_jungle_hills": "2020-11-12 22:11:14 +0000",
       "minecraft:wooded_hills": "2020-09-11 20:34:19 +0000",
@@ -1705,6 +1718,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-09-11 22:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-12-03 22:07:37 +0000"
     },
     "done": true
   },
@@ -1976,6 +1995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-12-03 22:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-09-11 21:23:58 +0000"
@@ -2170,6 +2195,7 @@
       "cooked_beef": "2020-09-11 20:36:56 +0000",
       "chorus_fruit": "2020-09-25 22:51:57 +0000",
       "baked_potato": "2020-11-24 22:04:50 +0000",
+      "porkchop": "2020-12-03 22:13:06 +0000",
       "bread": "2020-09-11 21:43:28 +0000",
       "golden_apple": "2020-09-11 22:15:53 +0000",
       "cookie": "2020-11-14 22:39:16 +0000",
@@ -3273,6 +3299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-12-03 22:41:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-09-11 21:57:07 +0000"
@@ -3324,6 +3356,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-11-05 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-12-03 22:34:14 +0000"
     },
     "done": true
   },

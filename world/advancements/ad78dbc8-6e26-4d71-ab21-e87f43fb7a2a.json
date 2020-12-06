@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-12-05 21:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-11-05 22:34:40 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-05 22:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-12-05 21:34:34 +0000"
     },
     "done": true
   },
@@ -555,6 +567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2020-12-05 21:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2020-11-05 22:29:48 +0000"
@@ -672,6 +690,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-11-23 23:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-12-05 23:28:44 +0000"
     },
     "done": true
   },
@@ -873,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-12-05 21:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-11-05 22:33:21 +0000"
@@ -924,6 +954,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-11-05 22:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-12-05 21:33:12 +0000"
     },
     "done": true
   },
@@ -1058,6 +1094,7 @@
       "minecraft:taiga_hills": "2020-11-21 22:59:18 +0000",
       "minecraft:desert": "2020-11-05 22:21:50 +0000",
       "minecraft:jungle": "2020-11-14 22:13:00 +0000",
+      "minecraft:birch_forest": "2020-12-05 21:40:57 +0000",
       "minecraft:jungle_hills": "2020-11-14 22:20:35 +0000",
       "minecraft:bamboo_jungle": "2020-11-14 22:46:01 +0000",
       "minecraft:badlands": "2020-11-05 22:21:54 +0000",
@@ -1078,6 +1115,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-05 22:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-12-05 21:33:12 +0000"
     },
     "done": true
   },
@@ -1207,6 +1250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-12-05 23:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-11-05 22:33:21 +0000"
@@ -1221,7 +1270,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2020-11-21 22:53:20 +0000"
+      "minecraft:crimson_forest": "2020-11-21 22:53:20 +0000",
+      "minecraft:nether_wastes": "2020-12-05 23:04:56 +0000",
+      "minecraft:warped_forest": "2020-12-05 23:05:24 +0000",
+      "minecraft:basalt_deltas": "2020-12-05 23:05:41 +0000"
     },
     "done": false
   },
@@ -1354,6 +1406,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-05 22:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-12-05 21:34:34 +0000"
     },
     "done": true
   },
@@ -1511,6 +1569,7 @@
     "criteria": {
       "cooked_porkchop": "2020-11-14 22:16:22 +0000",
       "cooked_mutton": "2020-11-23 19:52:20 +0000",
+      "baked_potato": "2020-12-05 22:25:28 +0000",
       "potato": "2020-11-05 22:06:22 +0000",
       "bread": "2020-11-05 22:10:34 +0000",
       "cookie": "2020-11-14 22:40:11 +0000",
@@ -1541,6 +1600,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2020-11-05 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-12-05 23:28:44 +0000"
     },
     "done": true
   },
@@ -1702,6 +1767,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2020-12-05 21:33:35 +0000",
       "minecraft:wolf": "2020-11-22 21:59:28 +0000"
     },
     "done": false
@@ -1931,6 +1997,12 @@
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2020-12-02 20:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-12-05 21:24:05 +0000"
     },
     "done": true
   },
@@ -2366,6 +2438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2020-12-05 21:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-11-05 22:33:21 +0000"
@@ -2531,6 +2609,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-11-23 23:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2020-12-05 21:34:10 +0000"
     },
     "done": true
   },

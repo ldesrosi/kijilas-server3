@@ -1006,6 +1006,7 @@
       "minecraft:creeper": "2020-11-23 18:43:16 +0000",
       "minecraft:husk": "2020-11-23 18:36:38 +0000",
       "minecraft:cave_spider": "2020-11-25 23:35:44 +0000",
+      "minecraft:enderman": "2020-12-05 21:47:50 +0000",
       "minecraft:zombie": "2020-11-23 18:20:30 +0000",
       "minecraft:drowned": "2020-11-24 22:46:49 +0000"
     },
@@ -2021,6 +2022,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-12-02 22:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-12-05 22:51:11 +0000"
     },
     "done": true
   },

@@ -3162,6 +3162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-12-13 21:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-09-11 20:29:32 +0000"
@@ -3717,6 +3723,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2020-11-22 00:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-12-13 22:19:41 +0000"
     },
     "done": true
   },

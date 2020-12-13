@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-12-13 20:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-02 20:20:42 +0000"
@@ -795,6 +801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-12-13 20:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-11-23 17:48:16 +0000"
@@ -1008,7 +1020,8 @@
       "minecraft:cave_spider": "2020-11-25 23:35:44 +0000",
       "minecraft:enderman": "2020-12-05 21:47:50 +0000",
       "minecraft:zombie": "2020-11-23 18:20:30 +0000",
-      "minecraft:drowned": "2020-11-24 22:46:49 +0000"
+      "minecraft:drowned": "2020-11-24 22:46:49 +0000",
+      "minecraft:zombie_villager": "2020-12-13 21:42:57 +0000"
     },
     "done": false
   },
@@ -1765,6 +1778,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-02 20:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-12-13 20:46:04 +0000"
     },
     "done": true
   },

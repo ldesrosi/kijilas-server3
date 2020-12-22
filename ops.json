@@ -6,6 +6,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "d409d9c7-2ac9-402a-8e3d-a6970f352b46",
+    "name": "ItchyPlums",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ad78dbc8-6e26-4d71-ab21-e87f43fb7a2a",
     "name": "Solenoid01",
     "level": 4,
@@ -14,6 +20,12 @@
   {
     "uuid": "a544c50b-22a0-4e8e-b2c0-53addd629428",
     "name": "whaivik",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ca16dbd6-d110-4e43-bf92-64f4ce7c8457",
+    "name": "pimpom95",
     "level": 4,
     "bypassesPlayerLimit": false
   },
@@ -32,6 +44,12 @@
   {
     "uuid": "d5097f75-274f-4231-b7b4-938b0412736b",
     "name": "Ash7479",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e9ce8cd9-dcae-47fd-9f9f-eb6791aa70f8",
+    "name": "faffle_the_bomb",
     "level": 4,
     "bypassesPlayerLimit": false
   },

@@ -760,6 +760,7 @@
       "minecraft:blaze": "2020-09-11 22:26:10 +0000",
       "minecraft:pillager": "2020-10-14 21:26:34 +0000",
       "minecraft:skeleton": "2020-09-11 20:41:05 +0000",
+      "minecraft:ghast": "2020-12-23 00:19:50 +0000",
       "minecraft:hoglin": "2020-11-14 23:43:47 +0000",
       "minecraft:magma_cube": "2020-09-11 22:18:01 +0000",
       "minecraft:spider": "2020-09-11 21:22:23 +0000",
@@ -1624,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2020-12-22 23:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2020-09-25 22:00:34 +0000"
@@ -2105,6 +2112,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-09-11 20:50:41 +0000",
+      "honey_bottle": "2020-12-22 23:50:58 +0000",
       "cooked_mutton": "2020-09-11 21:03:28 +0000",
       "sweet_berries": "2020-09-11 21:45:25 +0000",
       "cooked_beef": "2020-09-11 20:38:15 +0000",
@@ -2816,6 +2824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2020-12-22 23:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-09-11 20:30:13 +0000"
@@ -2867,6 +2881,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2020-11-22 01:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-12-23 00:15:29 +0000"
     },
     "done": true
   },

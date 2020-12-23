@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-12-22 20:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-11-05 22:33:21 +0000"
@@ -561,11 +567,13 @@
     "criteria": {
       "minecraft:pillager": "2020-12-02 20:17:23 +0000",
       "minecraft:skeleton": "2020-11-05 22:38:00 +0000",
+      "minecraft:hoglin": "2020-12-22 21:24:14 +0000",
       "minecraft:spider": "2020-11-05 22:00:19 +0000",
       "minecraft:creeper": "2020-11-21 22:41:09 +0000",
       "minecraft:phantom": "2020-11-23 23:06:30 +0000",
       "minecraft:husk": "2020-11-14 22:32:13 +0000",
       "minecraft:cave_spider": "2020-11-05 22:32:25 +0000",
+      "minecraft:piglin": "2020-12-22 21:26:34 +0000",
       "minecraft:enderman": "2020-11-23 19:53:30 +0000",
       "minecraft:zombie": "2020-11-05 22:04:53 +0000",
       "minecraft:drowned": "2020-11-23 20:15:06 +0000",
@@ -2158,6 +2166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-12-22 20:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-23 23:21:51 +0000"
@@ -2467,6 +2481,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2020-12-03 21:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-12-22 20:40:38 +0000"
     },
     "done": true
   },

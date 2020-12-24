@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-12-24 01:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-09-25 21:52:05 +0000"
@@ -1984,6 +1990,7 @@
       "honey_bottle": "2020-12-23 00:01:41 +0000",
       "sweet_berries": "2020-09-25 22:07:49 +0000",
       "chorus_fruit": "2020-09-25 22:51:51 +0000",
+      "cooked_beef": "2020-12-24 02:15:31 +0000",
       "baked_potato": "2020-11-30 21:50:02 +0000",
       "porkchop": "2020-09-25 22:03:54 +0000",
       "apple": "2020-11-23 18:40:30 +0000",
@@ -2013,6 +2020,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2020-11-14 21:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2020-12-24 01:43:29 +0000"
     },
     "done": true
   },
@@ -2488,6 +2501,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-25 22:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2020-12-24 01:55:41 +0000"
     },
     "done": true
   },

@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-12-27 00:12:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-09-11 20:30:13 +0000"
@@ -698,6 +704,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-09-11 20:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2020-12-26 23:05:06 +0000"
     },
     "done": true
   },
@@ -1287,6 +1299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-12-26 23:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-09-11 21:05:57 +0000"
@@ -1721,6 +1739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-12-27 00:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-10-14 21:32:12 +0000"
@@ -2082,6 +2106,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2020-11-05 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2020-12-26 22:33:10 +0000"
     },
     "done": true
   },
@@ -3439,6 +3469,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-12-23 23:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2020-12-26 23:05:06 +0000"
     },
     "done": true
   },

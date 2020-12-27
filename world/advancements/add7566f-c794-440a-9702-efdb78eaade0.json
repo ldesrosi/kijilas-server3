@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-12-27 00:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-09-11 20:36:53 +0000"
@@ -638,6 +644,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-09-11 21:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-12-26 18:29:12 +0000"
     },
     "done": true
   },
@@ -773,6 +785,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-12-27 00:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-12-27 00:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-11 21:27:00 +0000"
@@ -843,6 +867,7 @@
       "minecraft:piglin": "2020-09-11 23:32:51 +0000",
       "minecraft:enderman": "2020-09-11 21:25:45 +0000",
       "minecraft:silverfish": "2020-09-11 22:54:43 +0000",
+      "minecraft:endermite": "2020-12-26 19:29:05 +0000",
       "minecraft:zombie": "2020-09-11 20:40:51 +0000",
       "minecraft:drowned": "2020-09-11 21:22:28 +0000",
       "minecraft:zombie_villager": "2020-09-11 20:45:35 +0000"
@@ -1353,6 +1378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-12-27 00:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-09-11 20:35:40 +0000"
@@ -1837,9 +1868,27 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2020-12-26 16:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-09-11 22:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2020-12-26 15:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-12-27 00:28:42 +0000"
     },
     "done": true
   },
@@ -1882,6 +1931,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-11-12 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-12-26 18:29:12 +0000"
     },
     "done": true
   },
@@ -2099,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-12-26 18:29:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-09-11 21:24:09 +0000"
@@ -2312,6 +2373,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2020-09-11 20:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-12-27 00:28:42 +0000"
     },
     "done": true
   },

@@ -864,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-12-27 18:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-11-14 22:07:39 +0000"
@@ -1945,6 +1951,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-12-27 18:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-11-23 18:01:09 +0000"
@@ -2130,12 +2142,14 @@
       "porkchop": "2020-09-25 22:03:54 +0000",
       "apple": "2020-11-23 18:40:30 +0000",
       "cooked_cod": "2020-12-20 23:32:35 +0000",
+      "poisonous_potato": "2020-12-27 14:19:39 +0000",
       "bread": "2020-09-25 22:08:46 +0000",
       "cookie": "2020-11-23 18:43:09 +0000",
       "rotten_flesh": "2020-11-23 22:49:43 +0000",
       "salmon": "2020-11-22 22:17:48 +0000",
       "melon_slice": "2020-11-14 21:50:45 +0000",
       "cooked_chicken": "2020-12-07 22:29:45 +0000",
+      "mushroom_stew": "2020-12-27 21:29:00 +0000",
       "cooked_salmon": "2020-11-14 22:22:14 +0000"
     },
     "done": false
@@ -3290,6 +3304,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-12-26 16:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-12-27 14:46:43 +0000"
     },
     "done": true
   },

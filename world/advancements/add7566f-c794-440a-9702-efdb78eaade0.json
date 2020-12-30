@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-12-29 00:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-09-11 20:29:55 +0000"
@@ -56,6 +62,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_double_plant": "2020-12-21 00:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2020-12-29 00:16:15 +0000"
     },
     "done": true
   },
@@ -611,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2020-12-29 00:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-09-11 20:57:51 +0000"
@@ -874,6 +892,7 @@
       "minecraft:spider": "2020-09-11 20:46:48 +0000",
       "minecraft:piglin_brute": "2020-11-17 22:04:59 +0000",
       "minecraft:creeper": "2020-09-11 20:34:48 +0000",
+      "minecraft:wither": "2020-12-28 18:06:45 +0000",
       "minecraft:phantom": "2020-12-22 21:21:04 +0000",
       "minecraft:zombified_piglin": "2020-11-21 23:13:20 +0000",
       "minecraft:witch": "2020-11-05 22:14:59 +0000",
@@ -1039,6 +1058,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-11-14 22:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-12-29 00:16:15 +0000"
     },
     "done": true
   },
@@ -1237,6 +1262,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2020-09-25 22:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-12-28 14:44:03 +0000"
     },
     "done": true
   },
@@ -1492,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-12-29 19:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-09-11 20:36:46 +0000"
@@ -1733,6 +1770,7 @@
       "minecraft:deep_cold_ocean": "2020-09-25 22:18:39 +0000",
       "minecraft:taiga_hills": "2020-09-11 20:29:50 +0000",
       "minecraft:desert": "2020-09-11 21:41:39 +0000",
+      "minecraft:deep_frozen_ocean": "2020-12-29 22:19:22 +0000",
       "minecraft:jungle": "2020-11-05 22:42:04 +0000",
       "minecraft:birch_forest": "2020-11-05 22:16:58 +0000",
       "minecraft:jungle_hills": "2020-11-12 21:40:16 +0000",
@@ -1817,6 +1855,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2020-09-11 20:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2020-12-29 19:55:30 +0000"
     },
     "done": true
   },
@@ -1991,6 +2035,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-11-12 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2020-12-29 00:16:15 +0000"
     },
     "done": true
   },
@@ -2400,6 +2450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-12-28 15:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-09-11 20:29:50 +0000"
@@ -2427,6 +2483,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-09-11 20:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-12-28 18:05:56 +0000"
     },
     "done": true
   },
@@ -2807,6 +2869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-12-28 18:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2020-11-23 20:36:42 +0000"
@@ -3071,6 +3139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-12-29 22:19:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-11-22 21:38:43 +0000"
@@ -3197,6 +3271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-12-28 17:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-09-11 20:29:50 +0000"
@@ -3230,6 +3310,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2020-12-20 22:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2020-12-29 19:55:30 +0000"
     },
     "done": true
   },
@@ -3629,6 +3715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-12-29 00:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2020-11-12 22:28:15 +0000"
@@ -3872,6 +3964,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-11-22 00:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-12-28 17:59:30 +0000"
     },
     "done": true
   },

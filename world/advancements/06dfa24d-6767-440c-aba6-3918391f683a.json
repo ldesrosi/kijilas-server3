@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2020-12-29 23:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-11-14 23:09:33 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2020-09-11 20:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-12-29 23:11:18 +0000"
     },
     "done": true
   },
@@ -810,6 +822,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2020-11-17 22:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-12-29 22:33:16 +0000"
     },
     "done": true
   },
@@ -2205,6 +2223,7 @@
       "salmon": "2020-11-12 21:34:36 +0000",
       "melon_slice": "2020-11-12 21:32:35 +0000",
       "cooked_chicken": "2020-09-11 20:59:02 +0000",
+      "mushroom_stew": "2020-12-28 22:32:42 +0000",
       "cod": "2020-11-23 22:15:45 +0000",
       "cooked_salmon": "2020-11-12 21:22:38 +0000",
       "carrot": "2020-09-11 21:48:06 +0000"
@@ -2743,6 +2762,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-11 22:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-12-29 15:47:57 +0000"
     },
     "done": true
   },
@@ -3511,6 +3536,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-09-11 22:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-12-29 00:21:10 +0000"
     },
     "done": true
   },

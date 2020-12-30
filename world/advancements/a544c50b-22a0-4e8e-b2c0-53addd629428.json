@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-12-29 17:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-23 23:16:31 +0000"
@@ -581,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-12-30 01:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-09-25 22:57:23 +0000"
@@ -755,6 +767,12 @@
       "minecraft:zombie_villager": "2020-12-05 20:56:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-12-29 17:24:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1260,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-12-29 17:42:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-09-25 21:52:05 +0000"
@@ -1464,6 +1488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-12-29 17:24:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2020-11-23 22:28:34 +0000"
@@ -1509,6 +1539,7 @@
       "minecraft:bamboo_jungle_hills": "2020-11-14 21:40:53 +0000",
       "minecraft:wooded_hills": "2020-09-25 22:20:18 +0000",
       "minecraft:giant_tree_taiga_hills": "2020-09-25 22:10:27 +0000",
+      "minecraft:stone_shore": "2020-12-28 22:55:43 +0000",
       "minecraft:wooded_badlands_plateau": "2020-12-03 22:12:03 +0000",
       "minecraft:swamp": "2020-11-05 22:15:18 +0000",
       "minecraft:savanna": "2020-11-23 18:58:07 +0000",
@@ -1843,6 +1874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-12-29 17:24:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2020-12-26 16:15:05 +0000"
@@ -2095,6 +2132,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-12-29 17:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-12-26 16:15:07 +0000"
@@ -2135,6 +2178,7 @@
     "criteria": {
       "cooked_porkchop": "2020-09-25 22:04:58 +0000",
       "honey_bottle": "2020-12-23 00:01:41 +0000",
+      "cooked_mutton": "2020-12-28 23:39:42 +0000",
       "sweet_berries": "2020-09-25 22:07:49 +0000",
       "chorus_fruit": "2020-09-25 22:51:51 +0000",
       "cooked_beef": "2020-12-24 02:15:31 +0000",
@@ -2144,6 +2188,7 @@
       "cooked_cod": "2020-12-20 23:32:35 +0000",
       "poisonous_potato": "2020-12-27 14:19:39 +0000",
       "bread": "2020-09-25 22:08:46 +0000",
+      "golden_apple": "2020-12-29 17:43:10 +0000",
       "cookie": "2020-11-23 18:43:09 +0000",
       "rotten_flesh": "2020-11-23 22:49:43 +0000",
       "salmon": "2020-11-22 22:17:48 +0000",
@@ -2803,6 +2848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-12-28 17:23:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-25 22:35:05 +0000"
@@ -3226,6 +3277,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-11-22 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-12-28 22:49:57 +0000"
     },
     "done": true
   },

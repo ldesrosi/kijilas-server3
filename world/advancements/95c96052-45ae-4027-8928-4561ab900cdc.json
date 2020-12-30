@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2020-12-30 20:43:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-12-22 20:17:33 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2020-12-26 15:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-12-30 21:55:17 +0000"
     },
     "done": true
   },
@@ -689,6 +701,7 @@
       "minecraft:zombified_piglin": "2020-12-29 23:16:14 +0000",
       "minecraft:wither_skeleton": "2020-12-29 18:37:17 +0000",
       "minecraft:enderman": "2020-12-27 14:01:53 +0000",
+      "minecraft:endermite": "2020-12-30 22:03:17 +0000",
       "minecraft:zombie": "2020-12-22 21:20:34 +0000",
       "minecraft:drowned": "2020-12-26 21:19:11 +0000",
       "minecraft:zombie_villager": "2020-12-28 19:22:41 +0000"
@@ -761,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-12-30 20:43:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2020-12-23 22:14:31 +0000"
@@ -806,6 +825,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2020-12-22 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-12-30 20:43:24 +0000"
     },
     "done": true
   },
@@ -986,6 +1011,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-24 22:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-12-30 20:43:24 +0000"
     },
     "done": true
   },
@@ -1289,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-12-30 20:43:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-22 20:14:38 +0000"
@@ -1298,6 +1335,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-22 22:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-12-30 20:43:24 +0000"
     },
     "done": true
   },
@@ -1845,6 +1888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2020-12-30 20:43:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-22 22:31:41 +0000"
@@ -1941,6 +1990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-12-30 20:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2020-12-26 21:17:09 +0000"
@@ -1981,6 +2036,7 @@
       "poisonous_potato": "2020-12-26 17:38:04 +0000",
       "bread": "2020-12-22 22:53:07 +0000",
       "cookie": "2020-12-27 22:34:38 +0000",
+      "rotten_flesh": "2020-12-30 20:37:22 +0000",
       "salmon": "2020-12-26 23:27:16 +0000",
       "beetroot": "2020-12-23 22:08:54 +0000",
       "cooked_chicken": "2020-12-26 22:03:21 +0000",
@@ -2691,6 +2747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-12-30 20:43:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "cod_bucket": "2020-12-24 00:17:56 +0000"
@@ -3015,6 +3077,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-12-30 21:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2020-12-23 23:14:09 +0000"
@@ -3084,6 +3152,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2020-12-24 01:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2020-12-30 20:43:24 +0000"
     },
     "done": true
   },
@@ -3180,6 +3254,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-12-22 22:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2020-12-30 20:43:24 +0000"
     },
     "done": true
   },

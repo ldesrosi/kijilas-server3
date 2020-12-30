@@ -257,6 +257,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2020-12-30 22:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-12-30 21:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-12-21 23:38:34 +0000"
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-12-30 22:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-12-21 23:38:34 +0000"
@@ -398,6 +416,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-22 20:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-12-30 20:51:45 +0000"
     },
     "done": true
   },
@@ -724,6 +748,7 @@
       "minecraft:witch": "2020-12-23 22:09:31 +0000",
       "minecraft:wither_skeleton": "2020-12-24 22:20:08 +0000",
       "minecraft:husk": "2020-12-21 23:10:39 +0000",
+      "minecraft:shulker": "2020-12-30 22:14:38 +0000",
       "minecraft:piglin": "2020-12-21 21:31:19 +0000",
       "minecraft:enderman": "2020-12-23 23:35:00 +0000",
       "minecraft:zombie": "2020-12-22 20:47:01 +0000",
@@ -1151,6 +1176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-12-30 20:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2020-12-21 22:03:26 +0000"
@@ -1190,6 +1221,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2020-12-28 18:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-12-30 20:51:45 +0000"
     },
     "done": true
   },
@@ -1438,6 +1475,7 @@
       "minecraft:jungle_edge": "2020-12-21 21:38:14 +0000",
       "minecraft:forest": "2020-12-21 21:27:14 +0000",
       "minecraft:badlands_plateau": "2020-12-21 21:43:42 +0000",
+      "minecraft:mountains": "2020-12-30 20:50:59 +0000",
       "minecraft:taiga": "2020-12-21 21:21:10 +0000",
       "minecraft:desert_hills": "2020-12-21 22:17:42 +0000",
       "minecraft:giant_tree_taiga": "2020-12-21 21:15:00 +0000",
@@ -1469,6 +1507,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-30 00:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2020-12-30 22:22:25 +0000"
     },
     "done": true
   },
@@ -1910,6 +1954,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-12-21 22:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-12-30 22:22:25 +0000"
     },
     "done": true
   },
@@ -2718,6 +2768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-12-30 20:49:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-12-21 21:19:53 +0000"
@@ -3072,6 +3128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-12-30 22:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2020-12-22 00:33:11 +0000"
@@ -3126,6 +3188,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-12-30 21:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2020-12-22 19:52:26 +0000"
@@ -3153,6 +3221,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_the_recipe": "2020-12-22 20:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-12-30 21:46:07 +0000"
     },
     "done": true
   },
@@ -3249,6 +3323,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-12-21 22:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-12-30 20:49:45 +0000"
     },
     "done": true
   },
@@ -3351,6 +3431,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-12-24 00:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2020-12-30 22:22:25 +0000"
     },
     "done": true
   },
@@ -3471,6 +3557,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-12-21 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-12-30 22:22:25 +0000"
     },
     "done": true
   },

@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-12-30 20:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-23 23:21:51 +0000"
@@ -800,6 +806,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-11-22 21:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-12-30 20:52:29 +0000"
     },
     "done": true
   },
@@ -1140,6 +1152,7 @@
       "minecraft:mountains": "2020-11-05 22:12:36 +0000",
       "minecraft:badlands_plateau": "2020-11-05 22:22:20 +0000",
       "minecraft:taiga": "2020-11-05 22:12:05 +0000",
+      "minecraft:desert_hills": "2020-12-30 20:51:06 +0000",
       "minecraft:giant_tree_taiga": "2020-11-05 22:10:41 +0000",
       "minecraft:taiga_hills": "2020-11-21 22:59:18 +0000",
       "minecraft:desert": "2020-11-05 22:21:50 +0000",
@@ -2691,6 +2704,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-05 22:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-12-30 20:52:29 +0000"
     },
     "done": true
   },

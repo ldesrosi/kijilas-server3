@@ -1076,6 +1076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2020-12-30 20:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2020-12-27 00:22:58 +0000"
@@ -1342,6 +1348,7 @@
       "minecraft:bamboo_jungle_hills": "2020-12-21 21:36:05 +0000",
       "minecraft:wooded_hills": "2020-12-22 20:17:33 +0000",
       "minecraft:giant_tree_taiga_hills": "2020-12-21 21:27:55 +0000",
+      "minecraft:wooded_badlands_plateau": "2020-12-30 20:33:25 +0000",
       "minecraft:swamp": "2020-12-27 13:17:58 +0000",
       "minecraft:savanna": "2020-12-21 21:39:08 +0000",
       "minecraft:plains": "2020-12-22 19:47:39 +0000"

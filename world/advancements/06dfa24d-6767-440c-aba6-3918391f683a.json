@@ -861,6 +861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2020-12-31 23:40:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2020-09-25 22:10:31 +0000"
@@ -990,6 +996,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2020-12-22 00:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2020-12-31 23:40:03 +0000"
     },
     "done": true
   },
@@ -1596,6 +1608,7 @@
       "minecraft:jungle": "2020-11-12 21:20:23 +0000",
       "minecraft:jungle_hills": "2020-11-12 21:23:58 +0000",
       "minecraft:bamboo_jungle": "2020-11-12 21:47:23 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-12-31 22:35:45 +0000",
       "minecraft:badlands": "2020-11-05 22:21:50 +0000",
       "minecraft:savanna_plateau": "2020-11-22 01:15:14 +0000",
       "minecraft:beach": "2020-09-11 21:16:27 +0000",
@@ -1796,6 +1809,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-12-24 02:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2020-12-31 23:40:03 +0000"
     },
     "done": true
   },
@@ -2205,6 +2224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-12-31 22:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-09-11 23:28:59 +0000"
@@ -2558,6 +2583,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2020-09-11 21:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-12-31 22:27:13 +0000"
     },
     "done": true
   },

@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-01 01:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-12-21 23:38:34 +0000"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-01 00:37:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-12-21 21:32:10 +0000"
@@ -689,6 +701,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-01 00:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-01 00:37:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-30 00:18:41 +0000"
@@ -752,6 +776,7 @@
       "minecraft:piglin": "2020-12-21 21:31:19 +0000",
       "minecraft:enderman": "2020-12-23 23:35:00 +0000",
       "minecraft:zombie": "2020-12-22 20:47:01 +0000",
+      "minecraft:drowned": "2021-01-01 01:18:58 +0000",
       "minecraft:zombie_villager": "2020-12-27 20:52:18 +0000"
     },
     "done": false
@@ -1194,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-01 00:37:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-21 22:23:35 +0000"
@@ -1215,6 +1246,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-12-21 23:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-01-01 01:38:58 +0000"
     },
     "done": true
   },
@@ -1473,16 +1510,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-12-21 21:38:14 +0000",
+      "minecraft:cold_ocean": "2021-01-01 01:32:21 +0000",
       "minecraft:forest": "2020-12-21 21:27:14 +0000",
       "minecraft:badlands_plateau": "2020-12-21 21:43:42 +0000",
       "minecraft:mountains": "2020-12-30 20:50:59 +0000",
       "minecraft:taiga": "2020-12-21 21:21:10 +0000",
       "minecraft:desert_hills": "2020-12-21 22:17:42 +0000",
       "minecraft:giant_tree_taiga": "2020-12-21 21:15:00 +0000",
+      "minecraft:deep_cold_ocean": "2021-01-01 01:32:06 +0000",
       "minecraft:taiga_hills": "2020-12-21 21:20:47 +0000",
       "minecraft:desert": "2020-12-21 21:38:18 +0000",
       "minecraft:jungle": "2020-12-21 21:37:13 +0000",
       "minecraft:jungle_hills": "2020-12-21 21:39:26 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-01-01 01:24:24 +0000",
       "minecraft:badlands": "2020-12-21 21:38:44 +0000",
       "minecraft:savanna_plateau": "2020-12-23 22:04:59 +0000",
       "minecraft:beach": "2020-12-21 21:14:30 +0000",
@@ -1491,6 +1531,7 @@
       "minecraft:bamboo_jungle_hills": "2020-12-21 21:47:32 +0000",
       "minecraft:wooded_hills": "2020-12-27 20:33:36 +0000",
       "minecraft:giant_tree_taiga_hills": "2020-12-21 21:14:22 +0000",
+      "minecraft:stone_shore": "2021-01-01 01:32:34 +0000",
       "minecraft:wooded_badlands_plateau": "2020-12-21 22:03:03 +0000",
       "minecraft:swamp": "2020-12-27 13:28:30 +0000",
       "minecraft:savanna": "2020-12-21 21:40:54 +0000",
@@ -1660,9 +1701,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-01 00:37:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-12-27 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2021-01-01 01:21:38 +0000"
     },
     "done": true
   },
@@ -2101,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-01 00:37:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-12-22 20:30:19 +0000"
@@ -2480,6 +2539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-01 01:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-12-21 21:19:53 +0000"
@@ -2810,6 +2875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-01-01 01:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-12-21 22:42:47 +0000"
@@ -3017,6 +3088,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-23 21:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2021-01-01 01:38:58 +0000"
     },
     "done": true
   },

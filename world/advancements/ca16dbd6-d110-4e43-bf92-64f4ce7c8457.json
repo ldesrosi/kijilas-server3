@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-12-31 20:48:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-23 18:18:39 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2020-12-30 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-12-31 20:50:18 +0000"
     },
     "done": true
   },
@@ -905,6 +917,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2020-12-27 18:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-12-31 23:11:34 +0000"
     },
     "done": true
   },
@@ -2135,6 +2153,7 @@
       "cooked_mutton": "2020-12-26 21:07:34 +0000",
       "sweet_berries": "2020-11-23 17:52:31 +0000",
       "cooked_beef": "2020-12-22 20:46:04 +0000",
+      "chorus_fruit": "2020-12-31 20:50:50 +0000",
       "baked_potato": "2020-11-25 23:54:54 +0000",
       "apple": "2020-11-23 18:28:16 +0000",
       "pumpkin_pie": "2020-12-27 18:27:57 +0000",
@@ -3051,6 +3070,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-12-24 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-12-31 23:11:34 +0000"
     },
     "done": true
   },

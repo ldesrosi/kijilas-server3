@@ -1,5 +1,6 @@
 **/logs/
 **/*.jar
+!**/plugins/*.jar
 **/eula.txt
 **/terraform
 **/*.tfplan

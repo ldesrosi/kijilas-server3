@@ -9,3 +9,4 @@
 **/inventory
 **/*.retry
 **/node_modules/
+**/crash-reports/

@@ -137,6 +137,7 @@ world-settings:
       soft: 32
       hard: 128
     game-mechanics:
+      disable-mob-spawner-spawn-egg-transformation: false
       disable-pillager-patrols: false
       nerf-pigmen-from-nether-portals: false
       disable-chest-cat-detection: false

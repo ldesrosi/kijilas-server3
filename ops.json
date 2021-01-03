@@ -1,67 +1,13 @@
 [
   {
-    "uuid": "b3fddb35-e8e9-4d6d-a92e-71d473947fe1",
-    "name": "charlotte2202",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "dfc7c3c3-c63c-4467-b086-bd8dbebeacff",
-    "name": "JibberJabber987",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "95c96052-45ae-4027-8928-4561ab900cdc",
-    "name": "Mongk_II",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "a544c50b-22a0-4e8e-b2c0-53addd629428",
     "name": "whaivik",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "532f74e7-6bdc-43fe-81fd-5b3d9cd2bc3c",
-    "name": "Mathirsty",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "b52e439c-d076-44ca-83a7-fbf2faa1b830",
-    "name": "alienkiller24",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "5d15e699-71f7-446a-9260-5e5647a6844e",
-    "name": "bennieboy888",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "14b39f19-abd1-4a2d-8409-dc3e28aa690c",
-    "name": "lottier",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "06dfa24d-6767-440c-aba6-3918391f683a",
     "name": "Jessboop2",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "d409d9c7-2ac9-402a-8e3d-a6970f352b46",
-    "name": "ItchyPlums",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "ad78dbc8-6e26-4d71-ab21-e87f43fb7a2a",
-    "name": "Solenoid01",
     "level": 4,
     "bypassesPlayerLimit": false
   },
@@ -78,26 +24,8 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "e9ce8cd9-dcae-47fd-9f9f-eb6791aa70f8",
-    "name": "faffle_the_bomb",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "add7566f-c794-440a-9702-efdb78eaade0",
     "name": "kijilas",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "a246574b-4283-4036-8d2d-0bf8596de528",
-    "name": "BlockMiner73",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "e4cf6c86-8902-4f2f-9b5a-ae136fda03b8",
-    "name": "jessicapeterson",
     "level": 4,
     "bypassesPlayerLimit": false
   }

@@ -1,0 +1,42 @@
+lastAccountName: pimpom95
+timestamps:
+  login: 1609626512774
+  logout: 1609631748739
+  lastteleport: 1609630334242
+ipAddress: 51.9.23.38
+homes:
+  home:
+    world: world
+    x: 21.991519063623333
+    y: 50.0
+    z: -80.73873684536015
+    yaw: 39.10553
+    pitch: 15.11871
+  sugarcane:
+    world: world
+    x: 20.95180075644003
+    y: 49.0
+    z: -74.93745919302364
+    yaw: -205.39694
+    pitch: 45.60007
+  dab:
+    world: world
+    x: 22.277116561790677
+    y: 50.0
+    z: -83.75696255029877
+    yaw: -205.39694
+    pitch: 45.60007
+logoutlocation:
+  world: world
+  x: -39.58712735401583
+  y: 46.0
+  z: -79.18479144711849
+  yaw: -166.0625
+  pitch: 24.449879
+lastlocation:
+  world: world
+  x: -40.168785045714436
+  y: 46.0
+  z: -90.20842363530829
+  yaw: 4.029724
+  pitch: 15.600198

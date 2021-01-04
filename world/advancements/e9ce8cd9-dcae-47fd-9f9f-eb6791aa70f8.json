@@ -1161,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2021-01-04 22:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2020-12-22 21:06:25 +0000"
@@ -1182,6 +1188,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-12-21 21:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-01-04 22:28:33 +0000"
     },
     "done": true
   },
@@ -1443,6 +1455,7 @@
       "minecraft:savanna_plateau": "2020-12-22 21:53:16 +0000",
       "minecraft:beach": "2020-12-21 21:27:38 +0000",
       "minecraft:river": "2020-12-21 21:34:13 +0000",
+      "minecraft:lukewarm_ocean": "2021-01-04 22:07:24 +0000",
       "minecraft:bamboo_jungle_hills": "2020-12-21 21:36:05 +0000",
       "minecraft:wooded_mountains": "2021-01-02 20:53:58 +0000",
       "minecraft:wooded_hills": "2020-12-22 20:17:33 +0000",
@@ -2326,6 +2339,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2021-01-04 22:08:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-12-21 22:11:19 +0000"
@@ -2575,6 +2594,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-01-03 21:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-01-04 22:28:33 +0000"
     },
     "done": true
   },
@@ -3481,6 +3506,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-12-21 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-01-04 22:08:17 +0000"
     },
     "done": true
   },

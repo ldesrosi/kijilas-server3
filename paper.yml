@@ -158,6 +158,7 @@ world-settings:
           per-player: false
           day: 5
     anti-xray:
+      use-permission: false
       enabled: false
       engine-mode: 1
       max-chunk-section-index: 3
@@ -204,6 +205,9 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
+      bamboo:
+        max: 16
+        min: 11
     hopper:
       cooldown-when-full: true
       disable-move-event: false
@@ -220,3 +224,6 @@ world-settings:
       enabled: false
       items:
         COBBLESTONE: 300
+    mobs-can-always-pick-up-loot:
+      zombies: false
+      skeletons: false

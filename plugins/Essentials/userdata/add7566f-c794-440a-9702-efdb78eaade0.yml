@@ -1,8 +1,8 @@
 lastAccountName: kijilas
 timestamps:
-  login: 1609633294374
+  login: 1609710035600
   lastteleport: 1609613352041
-  logout: 1609633299737
+  logout: 1609715317534
 ipAddress: 82.23.49.75
 lastlocation:
   world: world
@@ -12,9 +12,9 @@ lastlocation:
   yaw: -120.51453
   pitch: 23.975607
 logoutlocation:
-  world: world
-  x: -1876.699999988079
-  y: 65.875
-  z: 1794.2117639062778
-  yaw: -83.35424
-  pitch: 13.413254
+  world: world_nether
+  x: -122.8315170499624
+  y: 128.0
+  z: 216.53273702854983
+  yaw: -104.78596
+  pitch: 6.712818

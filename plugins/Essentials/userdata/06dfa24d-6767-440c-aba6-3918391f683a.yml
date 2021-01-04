@@ -1,12 +1,12 @@
 lastAccountName: Jessboop2
 timestamps:
-  login: 1609628416487
-  logout: 1609631744044
+  login: 1609713376576
+  logout: 1609715774702
 ipAddress: 90.208.107.182
 logoutlocation:
-  world: world
-  x: -2516.6187094992583
-  y: 77.0
-  z: 1863.441460810917
-  yaw: -357.8118
-  pitch: -1.3114488
+  world: world_nether
+  x: -318.69999998807907
+  y: 60.0625
+  z: 233.39396752337822
+  yaw: -90.70899
+  pitch: 26.91877

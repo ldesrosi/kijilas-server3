@@ -1,12 +1,12 @@
 lastAccountName: whaivik
 timestamps:
-  login: 1609630845695
-  logout: 1609631706895
+  login: 1609707321596
+  logout: 1609708073749
 ipAddress: 86.30.144.151
 logoutlocation:
   world: world
-  x: -1861.2007001916324
-  y: 66.5
-  z: 2009.4080281242882
-  yaw: -135.74792
-  pitch: 0.15573867
+  x: -55.46633595273825
+  y: 63.0
+  z: -46.73830459489407
+  yaw: -75.91547
+  pitch: 2.9859722

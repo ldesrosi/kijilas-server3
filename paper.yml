@@ -227,3 +227,9 @@ world-settings:
     mobs-can-always-pick-up-loot:
       zombies: false
       skeletons: false
+    door-breaking-difficulty:
+      zombie:
+      - HARD
+      vindicator:
+      - NORMAL
+      - HARD

@@ -911,6 +911,7 @@
       "minecraft:piglin_brute": "2020-11-17 22:04:59 +0000",
       "minecraft:creeper": "2020-09-11 20:34:48 +0000",
       "minecraft:wither": "2020-12-28 18:06:45 +0000",
+      "minecraft:slime": "2021-01-08 22:26:26 +0000",
       "minecraft:phantom": "2020-12-22 21:21:04 +0000",
       "minecraft:zombified_piglin": "2020-11-21 23:13:20 +0000",
       "minecraft:witch": "2020-11-05 22:14:59 +0000",
@@ -1763,6 +1764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-01-08 22:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-09-11 20:29:55 +0000"
@@ -1856,6 +1863,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2020-09-12 00:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2021-01-08 22:26:32 +0000"
     },
     "done": true
   },
@@ -3272,6 +3285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-01-08 22:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-11-12 22:32:23 +0000"
@@ -3752,6 +3771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-01-08 22:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_warped_planks": "2020-09-11 23:19:50 +0000"
@@ -3767,6 +3792,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-11-22 00:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2021-01-08 22:26:32 +0000"
     },
     "done": true
   },

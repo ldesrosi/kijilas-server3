@@ -78,6 +78,8 @@ timings:
   server-name: Unknown Server
 world-settings:
   default:
+    only-players-collide: false
+    allow-vehicle-collisions: true
     portal-search-vanilla-dimension-scaling: true
     light-queue-size: 20
     auto-save-interval: -1

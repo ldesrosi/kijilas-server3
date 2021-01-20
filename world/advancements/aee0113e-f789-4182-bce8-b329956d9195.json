@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-01-19 22:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-04 23:17:53 +0000"
@@ -487,6 +493,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2021-01-15 21:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-01-19 22:17:15 +0000"
     },
     "done": true
   },
@@ -1319,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-01-19 23:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-11-14 22:08:55 +0000"
@@ -1383,8 +1401,10 @@
     "criteria": {
       "sweet_berries": "2021-01-08 23:32:28 +0000",
       "baked_potato": "2020-12-28 21:28:58 +0000",
+      "apple": "2021-01-19 22:12:35 +0000",
       "potato": "2020-12-28 22:04:50 +0000",
       "cooked_cod": "2021-01-15 22:13:46 +0000",
+      "poisonous_potato": "2021-01-19 23:55:51 +0000",
       "bread": "2021-01-12 22:21:28 +0000",
       "melon_slice": "2020-11-14 22:09:35 +0000",
       "beetroot": "2021-01-14 21:14:15 +0000",
@@ -1564,7 +1584,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:chicken": "2021-01-14 23:24:06 +0000"
+      "minecraft:chicken": "2021-01-14 23:24:06 +0000",
+      "minecraft:rabbit": "2021-01-19 22:47:29 +0000"
     },
     "done": false
   },
@@ -1685,6 +1706,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-14 23:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-01-19 22:02:38 +0000"
     },
     "done": true
   },
@@ -2156,6 +2183,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-01-19 22:02:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-11-14 22:16:49 +0000"
@@ -2243,6 +2276,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-11-14 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-01-19 22:37:30 +0000"
     },
     "done": true
   },
@@ -2402,5 +2441,11 @@
     },
     "done": true
   },
-  "DataVersion": 2584
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2021-01-19 23:46:09 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
 }

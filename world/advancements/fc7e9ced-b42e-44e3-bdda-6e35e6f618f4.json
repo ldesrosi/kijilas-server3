@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2021-01-20 21:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-12-28 22:10:56 +0000"
@@ -393,6 +399,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-04 22:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2021-01-20 21:55:25 +0000"
     },
     "done": true
   },
@@ -741,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2021-01-20 21:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-12-28 21:37:16 +0000"
@@ -774,6 +792,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2021-01-04 22:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2021-01-20 21:55:25 +0000"
     },
     "done": true
   },
@@ -1089,6 +1113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2021-01-20 21:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-12-28 22:37:06 +0000"
@@ -1122,6 +1152,7 @@
       "minecraft:river": "2020-12-28 21:51:52 +0000",
       "minecraft:wooded_mountains": "2020-12-28 21:41:54 +0000",
       "minecraft:bamboo_jungle_hills": "2020-12-28 22:03:13 +0000",
+      "minecraft:wooded_hills": "2021-01-20 21:58:49 +0000",
       "minecraft:giant_tree_taiga_hills": "2020-12-28 21:36:10 +0000",
       "minecraft:savanna": "2020-12-28 21:56:43 +0000",
       "minecraft:plains": "2020-12-28 21:46:28 +0000"
@@ -1173,6 +1204,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2021-01-19 23:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2021-01-20 21:55:25 +0000"
     },
     "done": true
   },
@@ -1326,6 +1363,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2020-12-28 22:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2021-01-20 21:55:25 +0000"
     },
     "done": true
   },

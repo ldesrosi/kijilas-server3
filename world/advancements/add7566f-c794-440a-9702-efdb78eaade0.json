@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2021-01-23 23:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2020-09-11 20:29:32 +0000"
@@ -233,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2021-01-23 23:13:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-09-11 22:35:11 +0000"
@@ -350,6 +362,12 @@
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2020-11-23 17:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-01-23 23:02:28 +0000"
     },
     "done": true
   },
@@ -3304,6 +3322,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-11 21:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2021-01-23 23:13:49 +0000"
     },
     "done": true
   },

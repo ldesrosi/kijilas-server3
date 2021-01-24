@@ -1815,6 +1815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_the_recipe": "2021-01-23 23:03:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-09-11 22:27:43 +0000"
@@ -2358,6 +2364,7 @@
       "cookie": "2020-11-14 22:41:25 +0000",
       "salmon": "2020-11-12 21:34:36 +0000",
       "melon_slice": "2020-11-12 21:32:35 +0000",
+      "cooked_rabbit": "2021-01-24 01:36:45 +0000",
       "cooked_chicken": "2020-09-11 20:59:02 +0000",
       "mushroom_stew": "2020-12-28 22:32:42 +0000",
       "cod": "2020-11-23 22:15:45 +0000",
@@ -2917,6 +2924,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-11 22:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2021-01-23 23:13:58 +0000"
     },
     "done": true
   },

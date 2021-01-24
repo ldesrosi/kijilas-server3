@@ -78,6 +78,7 @@ timings:
   server-name: Unknown Server
 world-settings:
   default:
+    ender-dragons-death-always-places-dragon-egg: false
     max-leash-distance: 10.0
     only-players-collide: false
     allow-vehicle-collisions: true

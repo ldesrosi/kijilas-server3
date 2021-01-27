@@ -764,6 +764,7 @@
       "minecraft:wither_skeleton": "2020-12-29 18:37:17 +0000",
       "minecraft:husk": "2021-01-09 17:44:10 +0000",
       "minecraft:cave_spider": "2021-01-02 20:42:21 +0000",
+      "minecraft:piglin": "2021-01-26 20:53:56 +0000",
       "minecraft:enderman": "2020-12-27 14:01:53 +0000",
       "minecraft:silverfish": "2021-01-20 22:52:34 +0000",
       "minecraft:endermite": "2020-12-30 22:03:17 +0000",
@@ -1100,6 +1101,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2020-12-29 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-01-26 21:58:30 +0000"
     },
     "done": true
   },
@@ -2148,6 +2155,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2020-12-29 23:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-01-26 21:58:30 +0000"
     },
     "done": true
   },

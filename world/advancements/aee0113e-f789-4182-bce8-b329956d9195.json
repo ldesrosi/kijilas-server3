@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2021-01-27 21:50:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-11-14 21:57:57 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-01-05 23:00:11 +0000"
@@ -284,6 +296,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2020-11-14 23:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2021-01-27 21:50:54 +0000"
     },
     "done": true
   },
@@ -413,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-11-14 23:21:23 +0000"
@@ -482,6 +506,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-01-08 23:54:58 +0000",
+      "minecraft:hoglin": "2021-01-27 21:50:53 +0000",
       "minecraft:spider": "2020-11-14 23:36:59 +0000",
       "minecraft:creeper": "2021-01-20 21:58:58 +0000",
       "minecraft:piglin": "2021-01-15 21:59:00 +0000",
@@ -581,6 +606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-01-15 22:29:49 +0000"
@@ -635,6 +666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2021-01-27 21:50:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-11-14 23:21:23 +0000"
@@ -656,6 +693,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2020-11-17 21:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2021-01-27 21:50:54 +0000"
     },
     "done": true
   },
@@ -686,6 +729,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-11-14 22:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
     },
     "done": true
   },
@@ -728,6 +777,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2020-11-14 22:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
     },
     "done": true
   },
@@ -872,6 +927,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-11-14 23:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2021-01-27 21:50:54 +0000"
     },
     "done": true
   },
@@ -1035,6 +1096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2021-01-27 21:50:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-11-14 22:03:19 +0000"
@@ -1086,6 +1153,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-01-15 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
     },
     "done": true
   },
@@ -1433,6 +1506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-11-14 22:12:36 +0000"
@@ -1508,6 +1587,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-12-28 21:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2021-01-27 21:50:54 +0000"
     },
     "done": true
   },
@@ -1758,6 +1843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2021-01-27 21:50:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-17 21:27:30 +0000"
@@ -1998,6 +2089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-14 23:30:57 +0000"
@@ -2079,6 +2176,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-11-14 21:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
     },
     "done": true
   },
@@ -2184,6 +2287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-01-19 22:02:38 +0000"
@@ -2193,6 +2302,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-11-14 22:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2021-01-27 21:50:54 +0000"
     },
     "done": true
   },
@@ -2373,6 +2488,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-01-14 23:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-01-27 22:05:30 +0000"
     },
     "done": true
   },

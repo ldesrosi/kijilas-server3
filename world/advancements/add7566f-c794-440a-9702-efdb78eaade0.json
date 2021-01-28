@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2021-01-27 22:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2020-12-27 13:19:17 +0000"
@@ -1519,6 +1525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-01-27 22:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-12 22:32:23 +0000"
@@ -2136,6 +2148,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2020-12-27 00:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2021-01-27 22:50:23 +0000"
     },
     "done": true
   },
@@ -3006,6 +3024,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2021-01-28 00:18:52 +0000",
       "minecraft:sheep": "2020-11-22 00:28:41 +0000",
       "minecraft:cow": "2020-11-22 00:28:43 +0000",
       "minecraft:rabbit": "2021-01-19 22:51:35 +0000",
@@ -3700,6 +3719,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-09-11 20:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2021-01-27 22:50:23 +0000"
     },
     "done": true
   },
@@ -4512,6 +4537,14 @@
       "has_planks": "2020-09-11 23:19:50 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/ragdoll.png": "2021-01-27 23:20:13 +0000",
+      "textures/entity/cat/british_shorthair.png": "2021-01-27 23:22:40 +0000",
+      "textures/entity/cat/persian.png": "2021-01-27 23:19:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {

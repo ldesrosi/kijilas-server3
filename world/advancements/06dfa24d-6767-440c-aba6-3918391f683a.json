@@ -2899,6 +2899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-01-27 22:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2020-09-11 22:05:02 +0000"

@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-28 21:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-09-11 20:31:23 +0000"
@@ -1805,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-28 21:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2020-09-25 22:00:34 +0000"
@@ -2106,6 +2118,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-09-12 00:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-28 21:49:43 +0000"
     },
     "done": true
   },
@@ -3442,6 +3460,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-09-25 22:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-28 21:49:43 +0000"
     },
     "done": true
   },

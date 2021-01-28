@@ -2157,6 +2157,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2021-01-28 20:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-12-03 22:07:37 +0000"
@@ -4540,6 +4546,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/jellie.png": "2021-01-28 21:21:14 +0000",
       "textures/entity/cat/ragdoll.png": "2021-01-27 23:20:13 +0000",
       "textures/entity/cat/british_shorthair.png": "2021-01-27 23:22:40 +0000",
       "textures/entity/cat/persian.png": "2021-01-27 23:19:20 +0000"

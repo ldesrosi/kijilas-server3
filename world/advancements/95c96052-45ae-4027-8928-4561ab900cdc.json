@@ -1218,6 +1218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-01-30 21:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2020-12-23 23:29:35 +0000"
@@ -1568,6 +1574,7 @@
       "minecraft:jungle": "2020-12-22 19:50:12 +0000",
       "minecraft:jungle_hills": "2020-12-22 19:52:46 +0000",
       "minecraft:bamboo_jungle": "2021-01-20 22:38:34 +0000",
+      "minecraft:warm_ocean": "2021-01-30 21:51:32 +0000",
       "minecraft:badlands": "2020-12-22 19:51:50 +0000",
       "minecraft:beach": "2020-12-22 19:42:43 +0000",
       "minecraft:dark_forest": "2021-01-20 22:42:03 +0000",
@@ -2271,6 +2278,7 @@
       "salmon": "2020-12-26 23:27:16 +0000",
       "beetroot": "2020-12-23 22:08:54 +0000",
       "cooked_chicken": "2020-12-26 22:03:21 +0000",
+      "mushroom_stew": "2021-01-30 22:50:48 +0000",
       "cooked_salmon": "2020-12-29 23:05:05 +0000",
       "carrot": "2020-12-29 19:22:37 +0000"
     },

@@ -805,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2021-02-03 22:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-12-22 19:50:08 +0000"
@@ -1877,10 +1883,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2020-12-21 21:32:25 +0000",
       "minecraft:nether_wastes": "2020-12-21 21:31:03 +0000",
+      "minecraft:soul_sand_valley": "2021-02-03 22:33:36 +0000",
       "minecraft:warped_forest": "2020-12-21 21:30:31 +0000",
       "minecraft:basalt_deltas": "2020-12-21 21:29:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2200,6 +2207,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-02-03 22:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-23 22:53:25 +0000"
@@ -2215,6 +2228,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-27 22:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2021-02-03 22:09:47 +0000"
     },
     "done": true
   },

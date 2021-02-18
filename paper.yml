@@ -93,7 +93,7 @@ world-settings:
     grass-spread-tick-rate: 1
     use-faster-eigencraft-redstone: false
     allow-non-player-entities-on-scoreboards: false
-    portal-search-radius: 128
+    portal-search-radius: 16
     portal-create-radius: 16
     fix-climbing-bypassing-cramming-rule: false
     keep-spawn-loaded-range: 10
@@ -151,9 +151,9 @@ world-settings:
       disable-player-crits: false
       disable-sprint-interruption-on-attack: false
       shield-blocking-delay: 5
-      disable-unloaded-chunk-enderpearl-exploit: true
+      disable-unloaded-chunk-enderpearl-exploit: false
       disable-relative-projectile-velocity: false
-      fix-curing-zombie-villager-discount-exploit: true
+      fix-curing-zombie-villager-discount-exploit: false
       scan-for-legacy-ender-dragon: true
       pillager-patrols:
         spawn-chance: 0.2
